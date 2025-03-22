@@ -20,7 +20,7 @@ Imagine generating research papers effortlessly from intelligent prompts. Remix 
 - 👩‍💻 **Sabrina Mokhtari** — Backend AI Engineer
 - 👩‍💻 **Sara Ketabi** — Backend AI Engineer
 - 🧑‍💻 **Julien Serbanescu** — Fullstack AI Developer
-- 🧑‍💻 **Keyvan Sadeghi** — Fullstack Product Lead
+- 🧑‍💻 **Keyvan Sadeghi** — Fullstack Product Engineer
 
 Let's redefine how we create, remix, and collaborate on knowledge!
 
